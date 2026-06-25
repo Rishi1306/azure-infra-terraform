@@ -1,0 +1,8 @@
+variable "KVS" {
+  
+}
+
+variable "KV" {
+  
+}
+
