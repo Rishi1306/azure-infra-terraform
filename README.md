@@ -1,4 +1,4 @@
-# Azure Infrastructure — Terraform IaC Project
+# Azure Infrastructure Using Terraform Project
 
 A modular Terraform project that provisions a production-ready Azure infrastructure using reusable, independently managed modules. Built with the **AzureRM provider v4.73.0**, this project separates each resource type into its own module, enabling clean separation of concerns, easy reuse, and environment-specific deployments.
 
@@ -144,10 +144,5 @@ Each module accepts its own set of input variables. Refer to the `variables.tf` 
 
 ## Author
 
-**Rishi**
-B.Tech — Computer Science (AI & ML), Techno Main Salt Lake, Kolkata
-DevOps & Cloud Computing | Azure | Terraform | IaC
-
+**Rishi Kejriwal**
 ---
-
-> *This project was built as part of a hands-on DevOps and cloud computing curriculum, with a focus on real-world Azure infrastructure patterns using Terraform.*
